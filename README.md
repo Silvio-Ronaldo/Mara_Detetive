@@ -2,6 +2,25 @@
   <img src="https://i.imgur.com/ZznEDCJ.jpg" height="260" width="300">
 </p>
 
+<p align="center">
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue" alt="Mara Detetive is released under the MIT license" />
+  </a>
+  <a href="https://GitHub.com/Silvio-Ronaldo/Mara_Detetive/graphs/commit-activity">
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen" alt="Mara Detetive is currently maintained by Silvio Ronaldo" />
+  </a>
+  <a href="https://GitHub.com/Silvio-Ronaldo/Mara_Detetive/network/">
+    <img src="https://img.shields.io/github/forks/Silvio-Ronaldo/Mara_Detetive?style=social" alt="This is the number of forks in this repository" />
+  </a>
+  <a href="https://GitHub.com/Silvio-Ronaldo/Mara_Detetive/stargazers/">
+    <img src="https://img.shields.io/github/stars/Silvio-Ronaldo/Mara_Detetive?style=social" alt="This is the number of stars in this repository" />
+  </a>
+  <a href="https://github.com/Naereen/badges">
+    <img src="https://img.shields.io/badge/badge-awesome-brightgreen" alt="Badges are awesome" />
+  </a>
+</p></br>
+
+
 <h1>🕵️‍♀️ Mara Detetive</h1>
 <p><strong>Este repositório contém arquivos e códigos que foram criados no prazo de alguns dias apenas para fins de validação e testes da nossa ideia. Em nenhum momento nos preocupamos com a arquitetura por trás para obtermos um sistema mais robusto. Caso a ideia vá pra frente, tudo isso será refeito e reestruturado.</strong></p></br>
 
